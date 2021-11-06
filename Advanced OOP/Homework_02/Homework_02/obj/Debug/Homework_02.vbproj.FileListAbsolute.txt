@@ -1,0 +1,12 @@
+C:\Users\sbart\source\repos\Homework_02\Homework_02\bin\Debug\Homework_02.exe.config
+C:\Users\sbart\source\repos\Homework_02\Homework_02\bin\Debug\Homework_02.exe
+C:\Users\sbart\source\repos\Homework_02\Homework_02\bin\Debug\Homework_02.pdb
+C:\Users\sbart\source\repos\Homework_02\Homework_02\bin\Debug\Homework_02.xml
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.vbprojAssemblyReference.cache
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.CoffeeCalculatorForm.resources
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.Resources.resources
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.vbproj.GenerateResource.cache
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.vbproj.CoreCompileInputs.cache
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.exe
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.xml
+C:\Users\sbart\source\repos\Homework_02\Homework_02\obj\Debug\Homework_02.pdb

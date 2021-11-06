@@ -1,0 +1,12 @@
+C:\Users\sbart\source\repos\Homework_03\Homework_03\bin\Debug\Homework_03.exe.config
+C:\Users\sbart\source\repos\Homework_03\Homework_03\bin\Debug\Homework_03.exe
+C:\Users\sbart\source\repos\Homework_03\Homework_03\bin\Debug\Homework_03.pdb
+C:\Users\sbart\source\repos\Homework_03\Homework_03\bin\Debug\Homework_03.xml
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.vbprojAssemblyReference.cache
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.TicketSalesForm.resources
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.Resources.resources
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.vbproj.GenerateResource.cache
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.vbproj.CoreCompileInputs.cache
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.exe
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.xml
+C:\Users\sbart\source\repos\Homework_03\Homework_03\obj\Debug\Homework_03.pdb

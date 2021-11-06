@@ -1,0 +1,14 @@
+C:\Users\sbart\source\repos\Homework 4\Homework 4\bin\Debug\Homework 4.exe.config
+C:\Users\sbart\source\repos\Homework 4\Homework 4\bin\Debug\Homework 4.exe
+C:\Users\sbart\source\repos\Homework 4\Homework 4\bin\Debug\Homework 4.pdb
+C:\Users\sbart\source\repos\Homework 4\Homework 4\bin\Debug\Homework 4.xml
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework 4.vbprojAssemblyReference.cache
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework_4.Homework_4AboutBox.resources
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework_4.CommissionCalculatorForm.resources
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework_4.Resources.resources
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework 4.vbproj.GenerateResource.cache
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework 4.vbproj.CoreCompileInputs.cache
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework 4.exe
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework 4.xml
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework 4.pdb
+C:\Users\sbart\source\repos\Homework 4\Homework 4\obj\Debug\Homework_4.SummaryForm.resources

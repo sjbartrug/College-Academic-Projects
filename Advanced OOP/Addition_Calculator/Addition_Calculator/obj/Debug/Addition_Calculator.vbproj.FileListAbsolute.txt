@@ -1,0 +1,12 @@
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\bin\Debug\Addition_Calculator.exe.config
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\bin\Debug\Addition_Calculator.exe
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\bin\Debug\Addition_Calculator.pdb
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\bin\Debug\Addition_Calculator.xml
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.vbprojAssemblyReference.cache
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.Addition_Form.resources
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.Resources.resources
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.vbproj.GenerateResource.cache
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.exe
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.xml
+C:\Users\sbart\source\repos\Addition_Calculator\Addition_Calculator\obj\Debug\Addition_Calculator.pdb

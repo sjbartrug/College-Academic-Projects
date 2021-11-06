@@ -1,0 +1,12 @@
+C:\Users\sbart\source\repos\Lab_01\Lab_01\bin\Debug\Lab_01.exe.config
+C:\Users\sbart\source\repos\Lab_01\Lab_01\bin\Debug\Lab_01.exe
+C:\Users\sbart\source\repos\Lab_01\Lab_01\bin\Debug\Lab_01.pdb
+C:\Users\sbart\source\repos\Lab_01\Lab_01\bin\Debug\Lab_01.xml
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.vbprojAssemblyReference.cache
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.GreetingForm.resources
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.Resources.resources
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.vbproj.GenerateResource.cache
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.vbproj.CoreCompileInputs.cache
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.exe
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.xml
+C:\Users\sbart\source\repos\Lab_01\Lab_01\obj\Debug\Lab_01.pdb
